@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "culture.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 794,
+    "uniqCompNum": 797,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -123,7 +123,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<section class=\"section1\">\n  <div class=\"container-fluid\" style='background-color:#cccccc'>\n    <div class=\"row section1Row\">\n      <div class=\"col-md-6  section1Text\">\n\n        <h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li>Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li><li>A Technical Focus with the Full range of Technical Subjects;</li><li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li><li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Track;</li><li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li><li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li><li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li><li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p>\n      </div>\n      <div class=\"video-responsive\">\n<div class=\"md-4\">\n        <iframe width=\"605\" height=\"340\" src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n  </div>\n</section>\n",
+            "HTMLCode": "<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li>Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Track;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
             "hideOnPublish": false,
             "paddingTop": "4",
             "paddingBottom": "0",
@@ -136,7 +136,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<section class=\"section1\">\n  <div class=\"container-fluid\" style='background-color:#cccccc'>\n    <div class=\"row section1Row\">\n      <div class=\"col-md-6  section1Text\">\n\n        <h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li>Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li><li>A Technical Focus with the Full range of Technical Subjects;</li><li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li><li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Track;</li><li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li><li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li><li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li><li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p>\n      </div>\n      <div class=\"video-responsive\">\n<div class=\"md-4\">\n        <iframe width=\"605\" height=\"340\" src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n  </div>\n</section>\n",
+          "HTMLCode": "<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li>Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Track;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
